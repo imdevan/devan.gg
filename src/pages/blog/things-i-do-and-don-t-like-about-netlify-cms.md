@@ -17,3 +17,4 @@ meta_description: Things I do and don't like about netlify cms
 * REALLY REALLY BA at handling errors. 
   * * Everything beaks is a \`required\` field is not filled, or any field is given data that agree with their unspecified scheme
 * No auto save
+* No clicking on a link in the editor to go to it
