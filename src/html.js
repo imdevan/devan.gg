@@ -1,5 +1,5 @@
 /**
- * Created by vaibhav on 31/3/18
+ * Entry poin of the app
  */
 import React, {Component} from 'react'
 import favicon from './img/favicon.ico'
