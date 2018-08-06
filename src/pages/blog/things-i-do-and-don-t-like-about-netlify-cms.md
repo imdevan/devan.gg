@@ -14,3 +14,6 @@ meta_description: Things I do and don't like about netlify cms
 * Things don't auto fill in on the content editing page
   * slug, description, meta title, meta description... 
 * No short key registered (even while cursor is focused on editing area.
+* REALLY REALLY BA at handling errors. 
+  * * Everything beaks is a \`required\` field is not filled, or any field is given data that agree with their unspecified scheme
+* No auto save
