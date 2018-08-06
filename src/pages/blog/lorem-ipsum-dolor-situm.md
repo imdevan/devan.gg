@@ -1,9 +1,9 @@
 ---
 templateKey: article-page
-title: A life worth living..
-slug: a-life-worth-living
+title: A Life Worth Living...
+slug: a-life-worth-living 
 date: 2018-03-29T03:55:49.370Z
-cover: https://images.unsplash.com/photo-1533433459756-d87ce5fd9de1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=de373c6f42d03627029fcc67f64d04a2&auto=format&fit=crop&w=1800&q=80
+cover: /img/products-grid3.jpg
 meta_title: Lorem Ipsum Dolor Situm
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
